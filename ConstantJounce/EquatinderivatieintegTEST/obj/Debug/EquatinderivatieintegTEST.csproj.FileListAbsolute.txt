@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\bin\Debug\EquatinderivatieintegTEST.exe.config
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\bin\Debug\EquatinderivatieintegTEST.exe
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\bin\Debug\EquatinderivatieintegTEST.pdb
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.csprojResolveAssemblyReference.cache
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.exe
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.pdb
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\obj\Debug\Constantjouncemotion.Form1.resources
+C:\Users\burak\Desktop\C#\EquatinderivatieintegTEST\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.csproj.GenerateResource.Cache
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\bin\Debug\EquatinderivatieintegTEST.exe.config
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.exe
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.pdb
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\bin\Debug\EquatinderivatieintegTEST.exe
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\obj\Debug\Constantjouncemotion.Form1.resources
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.csproj.GenerateResource.Cache
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\bin\Debug\EquatinderivatieintegTEST.pdb
+C:\Users\burak\Desktop\C#\ConstantJounce\EquatinderivatieintegTEST\obj\Debug\EquatinderivatieintegTEST.csprojAssemblyReference.cache
