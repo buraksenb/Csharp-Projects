@@ -1,0 +1,6 @@
+C:\Users\Burak\Desktop\C#\Readhexfile\Readhexfile\bin\Debug\Readhexfile.exe.config
+C:\Users\Burak\Desktop\C#\Readhexfile\Readhexfile\bin\Debug\Readhexfile.exe
+C:\Users\Burak\Desktop\C#\Readhexfile\Readhexfile\bin\Debug\Readhexfile.pdb
+C:\Users\Burak\Desktop\C#\Readhexfile\Readhexfile\obj\Debug\Readhexfile.exe
+C:\Users\Burak\Desktop\C#\Readhexfile\Readhexfile\obj\Debug\Readhexfile.pdb
+C:\Users\burak\Desktop\C#\Readhexfile\Readhexfile\obj\Debug\Readhexfile.csprojAssemblyReference.cache
