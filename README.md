@@ -8,3 +8,7 @@ Code can be reviewed with opening ConstantJounceMotion.sln with Visual Studio. E
 # DxfReader
 Dxf file is a CAD data file format. This application takes input the path of Dxf file text and reads it. Output is a list with components in the profile i.e. Line, Circle ...
 Example dxf file is "profile.txt"
+
+# ReadHexFile
+This application is for reading INTEL Hex file format which is used for storing data. Input is path of hex file and the output is a list.
+Example hex file is "stFlash.txt"
