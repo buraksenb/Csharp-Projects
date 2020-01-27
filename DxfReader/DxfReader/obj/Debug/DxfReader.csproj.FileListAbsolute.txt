@@ -1,0 +1,6 @@
+C:\Users\Burak\Desktop\C#\DxfReader\DxfReader\bin\Debug\DxfReader.exe.config
+C:\Users\Burak\Desktop\C#\DxfReader\DxfReader\bin\Debug\DxfReader.exe
+C:\Users\Burak\Desktop\C#\DxfReader\DxfReader\bin\Debug\DxfReader.pdb
+C:\Users\Burak\Desktop\C#\DxfReader\DxfReader\obj\Debug\DxfReader.exe
+C:\Users\Burak\Desktop\C#\DxfReader\DxfReader\obj\Debug\DxfReader.pdb
+C:\Users\burak\Desktop\C#\DxfReader\DxfReader\obj\Debug\DxfReader.csprojAssemblyReference.cache
